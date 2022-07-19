@@ -11,7 +11,6 @@ namespace Exer_Menu_simples
 
             do
             {
-
                 Console.WriteLine(" Escolha um dos seguintes pratos");
                 Console.WriteLine(" 1 - Bitoque");
                 Console.WriteLine(" 2 - Picanha");
@@ -25,7 +24,6 @@ namespace Exer_Menu_simples
                     Console.Clear();
                     Console.WriteLine(" Opção inválida");
                 }
-
 
             } while (option < 1 || option > 4);                                   
 
@@ -44,7 +42,7 @@ namespace Exer_Menu_simples
                     Console.WriteLine(" Escolheste a Açorda");
                     break;
             }
-
+            //teste git
 
         }
     }
