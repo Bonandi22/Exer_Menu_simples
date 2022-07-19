@@ -42,7 +42,7 @@ namespace Exer_Menu_simples
                     Console.WriteLine(" Escolheste a Açorda");
                     break;
             }
-            //teste git
+           
 
         }
     }
